@@ -24,3 +24,7 @@ Training
 ####Heroku Intro
 
 * David Nekovar (Slack: davidnekovar; Mail: david.nekovar@ulikeit.com)
+
+####Mixpanel Intro
+
+* Martin Stava (Slack: martinstava; Mail: martin@ulikeit.com)
