@@ -20,3 +20,7 @@ Training
 ####Microsoft Azure Intro
 
 * Martin Stava (Slack: martinstava; Mail: martin@ulikeit.com)
+
+####Heroku Intro
+
+* David Nekovar (Slack: davidnekovar; Mail: david.nekovar@ulikeit.com)
