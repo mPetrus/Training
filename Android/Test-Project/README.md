@@ -1,7 +1,7 @@
 Weather app
 ===========
 
-Create simple Android app for weather forecast. The app should support Android Gingerbread (API level 10) and newer.
+Create simple Android app for weather forecast. The app should support Android Gingerbread (API level 10) and newer. Package name should be in this format: `<your domain or name>.weather.android`, e.g. "com.johnsmith.weather.android".
 
 See wireframes and use provided graphics. Follow our uLikeIT [Android Coding Guidelines](https://github.com/uLikeIT/Training/blob/master/Android/Guidelines/GUIDELINES.md) and [Android Design Guidelines](https://developer.android.com/design/index.html). Following these guidelines is very important to us. Keep it in mind.
 
